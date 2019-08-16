@@ -9,15 +9,15 @@
     {% else %}
     <title>Welcome to Microblog!</title>
     {% endif %}
-  </head>
-  <body>
-    <div>Microblog: <a href="/index">Home</a></div>
-    <hr />
-    {% block content %}{% endblock %}
     <style>
       body {
         font-family: 'Helvetica Neue', Helvetica, sans-serif;
       }
     </style>
+  </head>
+  <body>
+    <div>Microblog: <a href="/index">Home</a> <a href="/login">Login</a></div>
+    <hr />
+    {% block content %}{% endblock %}
   </body>
 </html>
