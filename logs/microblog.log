@@ -74,3 +74,8 @@ sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed
 [parameters: ('susan', 'I am a NYC based Full-stack Developer. I work with HTML, CSS, JavaScript, React, Express, PostgreSQL, Sequelize and more.', 3)]
 (Background on this error at: http://sqlalche.me/e/gkpj)
 2019-08-26 14:03:52,010 INFO: Microblog startup [in /Users/darwin/Dropbox/webdev/projects/microblog/app/__init__.py:43]
+2019-08-26 14:35:05,050 INFO: Microblog startup [in /Users/darwin/Dropbox/webdev/projects/microblog/app/__init__.py:43]
+2019-08-26 14:37:37,368 INFO: Microblog startup [in /Users/darwin/Dropbox/webdev/projects/microblog/app/__init__.py:43]
+2019-08-26 14:38:55,827 INFO: Microblog startup [in /Users/darwin/Dropbox/webdev/projects/microblog/app/__init__.py:43]
+2019-08-26 14:39:45,546 INFO: Microblog startup [in /Users/darwin/Dropbox/webdev/projects/microblog/app/__init__.py:43]
+2019-08-26 14:40:09,543 INFO: Microblog startup [in /Users/darwin/Dropbox/webdev/projects/microblog/app/__init__.py:43]
